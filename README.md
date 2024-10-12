@@ -1,1 +1,1 @@
-# php_basic2_intermediate
+# This repository covers PHP concepts from basic to intermediate levels. It includes examples and exercises on topics like variables, functions, arrays, error handling, and database integration. Whether you're just starting or looking to solidify your understanding of PHP, this resource will help you build a strong foundation for web development.
