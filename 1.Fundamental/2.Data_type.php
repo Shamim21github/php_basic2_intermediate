@@ -38,6 +38,5 @@ echo gettype($pi); // double/float
 
 
 
-?>
 
 

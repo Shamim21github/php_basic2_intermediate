@@ -4,16 +4,13 @@
 <?php
 
 // PHP code illustrate the whitespace insensitivity
-$var1         =     15;
-$var2 =
-30;
-$sum = $var1
-+
-$var2;
+$var1 =15;
+$var2 =30;
+$sum = $var1+$var2;
  
 // "\n" for new line
 echo $sum, "\n";
------------------------------
+// ------------
 
 
 // Here we can see that all echo 
